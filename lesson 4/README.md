@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Lance Hamic)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The purpose of this assignment was to learn the basics of JavaScript, add basic JavaScript to our web pages, learn how to store and track information with variables, and to learn how to use objects to work with data.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://lsh14.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (While html is good for developing static web pages, JavaScript can make a page nicer by making it interactive/reactive.)
+2. (There are many mistakes that can happen in JavaScript, and one of the most common is confusing addition and concatenation. Addition is about adding numbers while concatenation is about adding strings.)
+3. (JavaScript supports two numeric data types, integers and floating-point numbers. An integer is a positibe or negative number with no decimal places, and a floating-point number is a number containing decimal places or written in exponential notation.)
 
